@@ -9,10 +9,6 @@
 
 ## Description:
 - With Google Book Search, user can search book and save/remove it for later use.
-- First when user visits the page, they can search a book which will then return a list of books available in google.
-- Then user will be given option to save the book or if book is already saved the button text will change to 'Book already saved'
-- Then when user saves the books they can visit 'See your Books' tab to get the list of saved books.
-- From here user can delete the book from the list.
 
 ## Technical:
 - Apollo Server is implemented that uses GraphQL queries and mutations to fetch and modify data
@@ -32,4 +28,5 @@
 
 ## Link:
 - GitHub: https://github.com/Jean424/Book-Search-Engine
-- Heroku: 
+- Heroku: https://booksearchengine666.herokuapp.com/
+- ![Screenshot of AboutPage](./client/src/images/ScreenShot_HomePage.png)
