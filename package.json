@@ -15,6 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "apollo": "^2.34.0",
+    "graphql": "^14.7.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
