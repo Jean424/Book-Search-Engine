@@ -29,4 +29,5 @@
 ## Link:
 - GitHub: https://github.com/Jean424/Book-Search-Engine
 - Heroku: https://booksearchengine666.herokuapp.com/
+- ![Screenshot of AboutPage](./client/src/images/ScreenShot_StartToSearch.png)
 - ![Screenshot of AboutPage](./client/src/images/ScreenShot_HomePage.png)
